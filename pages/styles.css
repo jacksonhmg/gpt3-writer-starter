@@ -326,6 +326,12 @@ textarea {
     color: rgba(255, 255, 255, 0.5);
 }
 
+.chrome-link {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+
 @media (min-width: 810px) and (max-width: 1199px) {
     .container {
         max-width: 600px;

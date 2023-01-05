@@ -87,6 +87,18 @@ const Home = () => {
           </div>
         </a>
       </div>
+      <div className=''>
+        <a
+          className='chrome-link'
+          href='https://github.com/jacksonhmg/gpt3-writer-extension-starter'
+          target="_blank"
+          rel='noreferrer'
+        >
+          <div>
+            <p>Download the chrome extension</p>
+          </div>  
+        </a>
+      </div>
     </div>
   );
 };

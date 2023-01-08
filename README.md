@@ -1,3 +1,2 @@
-# buildspace 
-### Welcome 👋
-This is the starter template for the [build your own AI writing assistant w/ GPT-3](https://buildspace.so/builds/ai-writer) project.
+# Access it at this link
+https://gpt3-writer-starter-production-af93.up.railway.app/
